@@ -4,7 +4,7 @@
 int is_palindrome(char frase[]);
 int is_aplhabetic(char );
 
-char user_input[] = "roma tem amor";
+char user_input[] = "Introduzir uma frase";
 char frase_limpa[] = "";
 
 int main(void)
